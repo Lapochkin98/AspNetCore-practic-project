@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\img\\AssasinsCreedValhalla.jpg",
+      "PackagePath": "staticwebassets\\img\\AssasinsCreedValhalla.jpg"
+    },
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\img\\CallOfDutyMW2.png",
+      "PackagePath": "staticwebassets\\img\\CallOfDutyMW2.png"
+    },
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\img\\FIFA_22_Cover.jpg",
+      "PackagePath": "staticwebassets\\img\\FIFA_22_Cover.jpg"
+    },
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\img\\Minecraft.jpeg",
+      "PackagePath": "staticwebassets\\img\\Minecraft.jpeg"
+    },
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\img\\TheWitcher3WildHunt.jpg",
+      "PackagePath": "staticwebassets\\img\\TheWitcher3WildHunt.jpg"
+    },
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\img\\msg-1591796313-3909.jpg",
+      "PackagePath": "staticwebassets\\img\\msg-1591796313-3909.jpg"
+    },
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\img\\msg-1591796313-3910.jpg",
+      "PackagePath": "staticwebassets\\img\\msg-1591796313-3910.jpg"
+    },
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\img\\msg-1591796313-3911.jpg",
+      "PackagePath": "staticwebassets\\img\\msg-1591796313-3911.jpg"
+    },
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\img\\test150300Image.jpg",
+      "PackagePath": "staticwebassets\\img\\test150300Image.jpg"
+    },
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\img\\test200450Image.jpg",
+      "PackagePath": "staticwebassets\\img\\test200450Image.jpg"
+    },
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\img\\testMinecraft.jpg",
+      "PackagePath": "staticwebassets\\img\\testMinecraft.jpg"
+    },
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\img\\testMinecraft2.jpg",
+      "PackagePath": "staticwebassets\\img\\testMinecraft2.jpg"
+    },
+    {
+      "Id": "E:\\MyLabs\\C#works\\TestAspCore\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TestAspCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TestAspCore.props",
+      "PackagePath": "build\\TestAspCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TestAspCore.props",
+      "PackagePath": "buildMultiTargeting\\TestAspCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TestAspCore.props",
+      "PackagePath": "buildTransitive\\TestAspCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,1122 @@
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\appsettings.Development.json
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\appsettings.json
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.exe
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.deps.json
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.runtimeconfig.json
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.pdb
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.csproj.AssemblyReference.cache
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.AssemblyInfoInputs.cache
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.AssemblyInfo.cs
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.csproj.CoreCompileInputs.cache
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.MvcApplicationPartsAssemblyInfo.cache
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.TestAspCore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.build.TestAspCore.props
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestAspCore.props
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestAspCore.props
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets.pack.json
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets.build.json
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets.development.json
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\scopedcss\bundle\TestAspCore.styles.css
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\refint\TestAspCore.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.pdb
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.genruntimeconfig.cache
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\ref\TestAspCore.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.csproj.CopyComplete
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Humanizer.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Build.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Common.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.RazorAssemblyInfo.cache
+D:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.RazorAssemblyInfo.cs
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.staticwebassets.runtime.json
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\appsettings.Development.json
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\appsettings.json
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\dbsettings.json
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.staticwebassets.runtime.json
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.exe
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.deps.json
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.runtimeconfig.json
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.pdb
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\EntityFramework.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Humanizer.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Json.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Build.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Common.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.CodeDom.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.csproj.AssemblyReference.cache
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.AssemblyInfoInputs.cache
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.AssemblyInfo.cs
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.csproj.CoreCompileInputs.cache
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.MvcApplicationPartsAssemblyInfo.cache
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.RazorAssemblyInfo.cache
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.RazorAssemblyInfo.cs
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.TestAspCore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.build.TestAspCore.props
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestAspCore.props
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestAspCore.props
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets.pack.json
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets.build.json
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets.development.json
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\scopedcss\bundle\TestAspCore.styles.css
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.csproj.CopyComplete
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\refint\TestAspCore.dll
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.pdb
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.genruntimeconfig.cache
+E:\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\ref\TestAspCore.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\dbsettings.json
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\EntityFramework.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Json.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.CodeDom.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\appsettings.Development.json
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\appsettings.json
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\dbsettings.json
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.staticwebassets.runtime.json
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.exe
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.deps.json
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.runtimeconfig.json
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.pdb
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Azure.Core.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Azure.Identity.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\EntityFramework.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Humanizer.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Json.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Common.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.CodeDom.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Text.Json.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.csproj.AssemblyReference.cache
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.AssemblyInfoInputs.cache
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.AssemblyInfo.cs
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.csproj.CoreCompileInputs.cache
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.RazorAssemblyInfo.cache
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.RazorAssemblyInfo.cs
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.TestAspCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.build.TestAspCore.props
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestAspCore.props
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestAspCore.props
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets.build.json
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets.development.json
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\scopedcss\bundle\TestAspCore.styles.css
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.csproj.CopyComplete
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\refint\TestAspCore.dll
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.pdb
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.genruntimeconfig.cache
+C:\Other\College Labs\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\ref\TestAspCore.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\appsettings.Development.json
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\appsettings.json
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\dbsettings.json
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.staticwebassets.runtime.json
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.exe
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.deps.json
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.runtimeconfig.json
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\TestAspCore.pdb
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Azure.Core.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Azure.Identity.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\EntityFramework.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Humanizer.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Json.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Build.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Common.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.CodeDom.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Memory.Data.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Text.Json.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+E:\MyLabs\C#works\TestAspCore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.csproj.AssemblyReference.cache
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.AssemblyInfoInputs.cache
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.AssemblyInfo.cs
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.csproj.CoreCompileInputs.cache
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.MvcApplicationPartsAssemblyInfo.cache
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.RazorAssemblyInfo.cache
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.RazorAssemblyInfo.cs
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.TestAspCore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.build.TestAspCore.props
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestAspCore.props
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestAspCore.props
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets.pack.json
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets.build.json
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\staticwebassets.development.json
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\scopedcss\bundle\TestAspCore.styles.css
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.csproj.CopyComplete
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.dll
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\refint\TestAspCore.dll
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.pdb
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\TestAspCore.genruntimeconfig.cache
+E:\MyLabs\C#works\TestAspCore\obj\Debug\net7.0\ref\TestAspCore.dll

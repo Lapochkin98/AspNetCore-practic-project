@@ -1,0 +1,29 @@
+﻿@model ShopCartViewModel
+
+
+<div class="row mt-5 mb-2">
+    <div class="container">
+        @foreach (var el in Model.shopCart.listShopItems)
+        {
+            <div class="alert alert-warning mt-3">
+                <b>Game: </b> @el.game.Name <br />
+                <b>Price: </b> @el.game.Price.ToString("c")
+            </div>
+        }
+        
+        @if (Model.shopCart.listShopItems.Count != 0)
+        {
+            <hr />
+            <div class="btn btn-danger" asp-controller="Order">Pay</div>
+        }
+    </div>
+
+    <div class="container">
+        @if (Model.shopCart.listShopItems.Count == 0)
+        {
+            <div class="alert alert-warning mt-3">
+                <b>Your cart is currently empty</b>
+            </div>
+        }
+    </div>
+</div>
